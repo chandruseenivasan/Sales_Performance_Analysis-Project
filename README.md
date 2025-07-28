@@ -90,7 +90,7 @@ This project identified critical sales trends, gaps, and areas of opportunity. W
 
 | File | Description |
 |------|-------------|
-| `data/Sales_Dataset.xlsx` | Raw + cleaned sales transaction data |
+| `data/Sales_Dataset.xlsx` |  cleaned sales transaction data |
 | `data/Regional_Sales_Forecast.xlsx` | Regional forecasted sales |
 | `dashboard/Sales_Dashboard.xlsx` | Final Excel dashboard |
 | `visuals/Dashboard_Screenshot.png` | Dashboard image |
