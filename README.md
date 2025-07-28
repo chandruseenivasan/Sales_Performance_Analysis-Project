@@ -7,7 +7,7 @@ Evaluate and improve sales performance by analyzing transactional data against r
 ---
 
 ## 📁 Data Used
-- ``: Contains planned sales by region.
+- <a href="https://github.com/chandruseenivasan/Sales_Performance_Analysis-Project/blob/main/Sales%20Performance.xlsx">Contains planned sales by region.
 
 ---
 
