@@ -48,9 +48,8 @@ Merged actuals and forecast data to compare planned vs. real sales.
 
 ## 📈 Dashboard Preview
 
-![Dashboard Screenshot](
 <img width="1165" height="581" alt="dash boardimage" src="https://github.com/user-attachments/assets/26b313ec-2cd3-443b-9506-3d881e3ba9d2" />
-)
+
 
 ---
 
