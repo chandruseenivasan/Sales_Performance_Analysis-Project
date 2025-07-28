@@ -7,8 +7,7 @@ Evaluate and improve sales performance by analyzing transactional data against r
 ---
 
 ## 📁 Data Used
-- `Sales_Dataset.xlsx`: Contains raw order-level sales transactions.
-- `Regional_Sales_Forecast.xlsx`: Contains planned sales by region.
+- ``: Contains planned sales by region.
 
 ---
 
